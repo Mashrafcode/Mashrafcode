@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-ashraf-314281176/**
 
-- 📄 Know about my experiences [Currently Working as a Data Analyst at Google](Currently Working as a Data Analyst at Google)
+- 📄 Know about my experiences (Currently Working as a Data Analyst at Google)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
