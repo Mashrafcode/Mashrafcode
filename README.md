@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Analytics,SQL,Excel,Tableau,Power BI,Data Analysis with Python,R,BigQuery,Machine Learning Algorithms,Statistics**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohd-ashraf-314281176/**
+- 📫 How to reach me **https://www.linkedin.com/in/mohd-ashraf-khan/**
 
 - 📄 Know about my experiences (Currently Working as a Data Analyst at Google)
 
